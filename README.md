@@ -2,166 +2,131 @@
 
 # 👋 Hi, I'm Md. Raihan
 
-### 🛡️ Cybersecurity Specialist | Security Researcher | Penetration Tester
+## 🛡️ Cybersecurity Specialist | Security Researcher
 
-<p>
-I'm passionate about securing web applications, researching security vulnerabilities,
-performing penetration testing, and helping businesses recover from malware incidents.
-</p>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Cybersecurity+Specialist;Web+Application+Security;Penetration+Testing;WordPress+Security;Malware+Incident+Response;Security+Research"
+  alt="Typing introduction"
+/>
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Cybersecurity+Specialist;Penetration+Tester;Web+Application+Security;WordPress+Security;Malware+Incident+Response;Security+Researcher" />
-</p>
+<br>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=raihan-sec&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<img
+  src="https://komarev.com/ghpvc/?username=raihan-sec&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+  alt="Profile views"
+/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-- 🔐 Web Application Security
-- 🛡️ Penetration Testing
-- 🌐 WordPress Security
-- 🚨 Malware Incident Response
-- 🔍 Vulnerability Assessment
-- 🐞 Bug Bounty Research
-- 🐧 Linux Security
-- 🐍 Python & Bash Automation
+I'm a Cybersecurity Specialist and Security Researcher with a strong focus on web application security, WordPress security, malware incident response, and vulnerability assessment.
+
+I'm passionate about identifying security weaknesses, analysing threats, and helping organisations improve their security posture through responsible security practices and continuous learning.
+
+- 🔐 Focused on Web Application Security
+- 🛡️ Practising Penetration Testing and VAPT
+- 🌐 Working with WordPress Security and Malware Removal
+- 🚨 Interested in Malware Incident Response
+- 🔍 Learning Vulnerability Research and Bug Hunting
+- 🐧 Working with Linux environments
+- ⚙️ Building Python and Bash security automation
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Focus Areas
 
-- Improving Web Application Security
-- WordPress Malware Removal
-- Bug Bounty Hunting
+- Web Application Security
+- Penetration Testing
+- Vulnerability Assessment
+- WordPress Security
+- Malware Removal and Website Recovery
+- Malware Incident Response
+- Bug Bounty and Security Research
+- Linux Security
 - Security Automation
-- Security Research
-- Building Open Source Security Tools
 
 ---
 
-# 🛠️ Tech Stack
-
-### Security
+## 🛠️ Security Tools
 
 <p>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white">
-<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge">
-<img src="https://img.shields.io/badge/SQLMap-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/WPScan-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white" alt="Nmap">
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
+  <img src="https://img.shields.io/badge/SQLMap-111111?style=for-the-badge" alt="SQLMap">
+  <img src="https://img.shields.io/badge/WPScan-BD0000?style=for-the-badge&logo=wordpress&logoColor=white" alt="WPScan">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
 </p>
 
-### Programming
+---
+
+## 💻 Languages and Technologies
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
-
-### Operating Systems
-
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📌 Current Activities
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raihan-sec&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=raihan-sec&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-sec&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- 🔍 Improving my web application penetration-testing skills
+- 🌐 Working on WordPress security and malware-removal workflows
+- 🐞 Practising responsible vulnerability research
+- ⚙️ Building security automation with Python and Bash
+- 📚 Studying OWASP Top 10 and real-world attack techniques
+- 🧪 Documenting cybersecurity projects and laboratory work
 
 ---
 
-# 🏆 GitHub Trophy
+## 📂 Featured Projects
 
-<p align="center">
+### 🔐 WordPress Security and Malware Removal
 
-<img src="https://github-profile-trophy.vercel.app/?username=raihan-sec&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📂 Featured Projects
-
-### 🔐 WordPress Malware Removal
-
-Professional malware cleanup, website recovery, blacklist removal, and security hardening.
-
----
+Documentation, tools, and workflows related to malware detection, website recovery, blacklist cleanup, and WordPress security hardening.
 
 ### 🌐 Web Application Security
 
-Manual penetration testing and vulnerability assessment.
-
----
-
-### 🐞 Bug Bounty Research
-
-Security research focused on responsible vulnerability disclosure.
-
----
+Practice projects, penetration-testing notes, vulnerability-assessment workflows, and responsible security research.
 
 ### ⚙️ Security Automation
 
-Python & Bash scripts for penetration testing and reconnaissance.
+Python and Bash scripts designed to automate reconnaissance, enumeration, and repeatable security-testing tasks.
+
+### 🐞 Bug Bounty Notes
+
+Organised notes covering reconnaissance, common web vulnerabilities, methodology, and responsible disclosure.
+
+> Projects will be linked here as the repositories are published.
 
 ---
 
-# 🌍 Connect With Me
+## 📫 Connect With Me
 
 <p>
+  <a href="https://linkedin.com/in/raihansec">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
-<a href="https://linkedin.com/in/raihansec">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="YOUR_FIVERR_LINK">
-<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white">
-</a>
-
-<a href="YOUR_HACKERONE_LINK">
-<img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone">
-</a>
-
+  <a href="https://www.fiverr.com/s/7Y4j73e">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
+  </a>
 </p>
-
----
-
-# 💬 Quote
-
-> "Security is not a product, it's a process."
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 🔐 Responsible Research • Continuous Learning • Practical Security
+
+⭐ Thanks for visiting my GitHub profile.
 
 </div>
