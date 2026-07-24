@@ -43,25 +43,25 @@ I enjoy identifying vulnerabilities, analyzing malware, performing security asse
 
 # 🎯 Current Focus
 
-- ✅ Web Application Security
-- ✅ WordPress Malware Removal
-- ✅ Penetration Testing
-- ✅ Vulnerability Assessment
-- ✅ Malware Incident Response
-- ✅ Security Automation
-- ✅ Open Source Security Projects
-- ✅ Continuous Security Research
+- 🌐 Web Application Security
+- 🔐 WordPress Malware Removal
+- 🛡️ Penetration Testing
+- 🔎 Vulnerability Assessment
+- 🚨 Malware Incident Response
+- ⚙️ Security Automation
+- 🚀 Open Source Security Projects
+- 📚 Continuous Security Research
 
 ---
 
 # 📚 Currently Learning
 
-- Active Directory Security
-- API Security
-- Cloud Security
-- Malware Reverse Engineering
-- Advanced Web Exploitation
-- Red Team Methodologies
+- 🏢 Active Directory Security
+- ☁️ Cloud Security
+- 🔗 API Security Testing
+- 🦠 Malware Analysis & Reverse Engineering
+- 🌐 Advanced Web Application Security
+- 🎯 Red Team Techniques
 
 ---
 
