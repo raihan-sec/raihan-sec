@@ -4,25 +4,31 @@
 
 ### 🔐 Cybersecurity Specialist | Penetration Tester | Security Researcher
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=850&lines=Web+Application+Security;WordPress+Security;Penetration+Testing;Malware+Incident+Response;Vulnerability+Assessment;Security+Automation;Continuous+Security+Research" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=00C853&center=true&vCenter=true&width=900&lines=Cybersecurity+Specialist;Web+Application+Security;WordPress+Security;Penetration+Testing;Malware+Incident+Response;Security+Automation;Continuous+Security+Research" alt="Typing SVG" />
 </p>
 
-<p>
-  <a href="https://github.com/raihan-sec">
-    <img src="https://img.shields.io/badge/GitHub-raihan--sec-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<p align="center">
   <a href="https://linkedin.com/in/raihansec">
-    <img src="https://img.shields.io/badge/LinkedIn-raihansec-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://medium.com/@raihansec">
-    <img src="https://img.shields.io/badge/Medium-@raihansec-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+
+  <a href="YOUR_FIVERR_LINK">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=raihan-sec&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raihan-sec&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
