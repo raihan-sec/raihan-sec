@@ -2,21 +2,13 @@
 
 # 👋 Hi, I'm Md. Raihan
 
-### 🔐 Cybersecurity Specialist | Penetration Tester | Security Researcher
+### 🔐 Cybersecurity Specialist | Web Application Security | Security Researcher
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=Cybersecurity+Specialist;Penetration+Tester;Web+Application+Security;WordPress+Security;Malware+Incident+Response;Vulnerability+Assessment;Python+%26+Bash+Automation;Always+Learning+%F0%9F%9A%80" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1200&color=00C853&center=true&vCenter=true&width=900&lines=Cybersecurity+Specialist;Web+Application+Security;WordPress+Security;Penetration+Testing;Malware+Incident+Response;Vulnerability+Assessment;Python+%26+Bash+Automation;Always+Learning+%F0%9F%9A%80" />
 
-<p>
-
-<a href="https://github.com/raihan-sec">
-<img src="https://img.shields.io/github/followers/raihan-sec?label=Followers&style=for-the-badge"/>
-</a>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=raihan-sec&style=for-the-badge&color=0e75b6"/>
-
-</p>
 
 </div>
 
@@ -24,20 +16,24 @@
 
 # 💻 About Me
 
-I'm a **Cybersecurity Specialist** passionate about protecting websites, web applications, and digital assets from modern cyber threats.
+I'm a Cybersecurity Specialist passionate about securing websites, web applications, and digital infrastructure.
 
-My primary expertise includes:
+My work focuses on identifying security vulnerabilities, performing security assessments, strengthening WordPress security, responding to malware incidents, and developing practical security automation.
 
-- 🔐 Web Application Security
+I continuously improve my skills through hands-on labs, real-world projects, security research, and open-source contributions.
+
+---
+
+# 🚀 Areas of Expertise
+
+- 🌐 Web Application Security
 - 🛡️ Penetration Testing
-- 🌐 WordPress Security
+- 🔐 WordPress Security
 - 🚨 Malware Incident Response
-- 🔍 Vulnerability Assessment
+- 🔎 Vulnerability Assessment
 - 🐞 Bug Bounty Research
 - 🐧 Linux Security
 - ⚡ Python & Bash Automation
-
-I enjoy identifying vulnerabilities, analyzing malware, performing security assessments, and building practical security solutions through continuous learning and real-world projects.
 
 ---
 
@@ -67,11 +63,17 @@ I enjoy identifying vulnerabilities, analyzing malware, performing security asse
 
 # 🛠 Security Stack
 
-### Offensive Security
+## Offensive Security
 
 <p>
 
-<img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge"/>
 
@@ -85,29 +87,7 @@ I enjoy identifying vulnerabilities, analyzing malware, performing security asse
 
 <img src="https://img.shields.io/badge/FFUF-success?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Gobuster-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Nikto-darkgreen?style=for-the-badge"/>
-
-</p>
-
----
-
-### Programming
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode"/>
-
-</p>
-
----
-
-### Operating Systems
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows"/>
+<img src="https://img.shields.io/badge/Gobuster-purple?style=for-the-badge"/>
 
 </p>
 
@@ -117,19 +97,19 @@ I enjoy identifying vulnerabilities, analyzing malware, performing security asse
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=raihan-sec&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raihan-sec&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raihan-sec&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raihan-sec&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-sec&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-sec&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -139,7 +119,7 @@ I enjoy identifying vulnerabilities, analyzing malware, performing security asse
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=raihan-sec&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=raihan-sec&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
@@ -147,51 +127,31 @@ I enjoy identifying vulnerabilities, analyzing malware, performing security asse
 
 # 📂 Featured Projects
 
-## 🔐 WordPress Malware Removal
+### 🔐 WordPress Malware Removal
 
-Professional malware cleanup, hacked website recovery, blacklist removal, website restoration, and security hardening.
+Professional malware cleanup, hacked website recovery, blacklist removal, and security hardening.
 
----
+### 🌐 Web Application Security
 
-## 🌐 Web Application Security
+Manual penetration testing and vulnerability assessment based on industry best practices.
 
-Manual penetration testing, vulnerability assessment, OWASP Top 10 testing, and detailed security reporting.
+### 🐞 Bug Bounty Research
 
----
+Reconnaissance, web vulnerability discovery, and responsible disclosure.
 
-## 🐞 Bug Bounty Research
+### ⚙️ Security Automation
 
-Reconnaissance, web vulnerability discovery, responsible disclosure, and continuous security research.
-
----
-
-## ⚙️ Security Automation
-
-Python & Bash scripts for penetration testing, reconnaissance, automation, and security workflows.
-
----
-
-# ✍ Latest Articles
-
-- 📝 Static Malware Analysis
-- 📝 Local File Inclusion (LFI)
-- 📝 WordPress Penetration Testing
-- 📝 Malware Incident Response
-
-➡️ Read more on Medium
+Python & Bash scripts for reconnaissance, enumeration, and security workflows.
 
 ---
 
 # 🤝 Open to Collaborate
 
-I'm interested in collaborating on:
-
-- Open Source Security Projects
-- Web Application Security
-- WordPress Security
-- Malware Analysis
-- Security Automation
-- Bug Bounty Research
+- 🌐 Web Application Security
+- 🔐 WordPress Security
+- 🐞 Bug Bounty Research
+- 🛠 Open Source Security Tools
+- ⚡ Security Automation
 
 ---
 
@@ -200,27 +160,19 @@ I'm interested in collaborating on:
 <p>
 
 <a href="https://linkedin.com/in/raihansec">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
 </a>
 
 <a href="YOUR_FIVERR_LINK">
-
 <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-
 </a>
 
 <a href="https://medium.com/@raihansec">
-
 <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"/>
-
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -229,13 +181,13 @@ I'm interested in collaborating on:
 
 # 💡 Philosophy
 
-> **"Security is not just about finding vulnerabilities — it's about understanding risk, protecting systems, and continuously improving resilience."**
+> **"Security is a continuous process of learning, improving, and protecting what matters."**
 
 ---
 
 <div align="center">
 
-## ⭐ Thank You for Visiting!
+### ⭐ Thanks for visiting my GitHub profile!
 
 **Always Learning • Always Improving • Always Securing**
 
