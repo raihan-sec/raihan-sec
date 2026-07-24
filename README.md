@@ -7,38 +7,32 @@
 <p>
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=1100&color=00C853&center=true&vCenter=true&width=900&lines=Web+Application+Security;WordPress+Security;Penetration+Testing;Malware+Incident+Response;Vulnerability+Assessment;Bug+Bounty+Research;Python+%26+Bash+Automation;Continuous+Security+Research"
-    alt="Typing animation"
+    alt="Typing Animation"
   />
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/raihansec">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
 
-  <a href="https://medium.com/@raihansec">
-    <img
-      src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"
-      alt="Medium"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/raihansec">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-  <a href="https://github.com/raihan-sec">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
+<a href="https://medium.com/@raihansec">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+
+<a href="https://www.fiverr.com/users/raihan_cybersec/">
+<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+</a>
+
+<a href="https://github.com/raihan-sec">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
 </p>
 
 <p>
-  <img
-    src="https://komarev.com/ghpvc/?username=raihan-sec&label=Profile%20Views&color=0e75b6&style=flat-square"
-    alt="Profile views"
-  />
+<img src="https://komarev.com/ghpvc/?username=raihan-sec&label=Profile%20Views&color=00C853&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
