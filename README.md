@@ -11,7 +11,11 @@
   />
 </p>
 
-<p>
+<p align="center">
+
+<a href="https://github.com/raihan-sec">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 <a href="https://www.linkedin.com/in/raihansec">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -25,8 +29,8 @@
 <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
 </a>
 
-<a href="https://github.com/raihan-sec">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://hackerone.com/raihan_sec">
+<img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" />
 </a>
 
 </p>
