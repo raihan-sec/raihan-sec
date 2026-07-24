@@ -14,7 +14,10 @@
 
 # 💻 About Me
 
-I'm a Cybersecurity Specialist focused on securing modern web applications and helping organizations recover from cyber incidents.
+I'm a Cybersecurity Specialist and Security Researcher with a strong focus on web application security, WordPress security, malware incident response, and vulnerability assessment.
+
+I'm passionate about identifying security weaknesses, analysing threats, and helping organisations improve their security posture through responsible security practices and continuous learning.
+
 
 My primary interests include:
 
@@ -26,8 +29,6 @@ My primary interests include:
 - 🐞 Bug Bounty Research
 - 🐧 Linux Security
 - ⚡ Python & Bash Automation
-
-I enjoy finding security weaknesses, analyzing malware, performing manual security testing, and building defensive solutions that improve the security posture of websites and web applications.
 
 ---
 
