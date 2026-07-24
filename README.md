@@ -73,33 +73,43 @@ I continuously improve my skills through hands-on labs, real-world projects, sec
 
 ---
 
-## 🧰 Security Toolkit
+## 🧠 Knowledge & Skills
 
-### Web Application & Offensive Security
+<p align="left">
 
-<p>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/SQLMap-111111?style=flat-square&logoColor=white" alt="SQLMap" />
-  <img src="https://img.shields.io/badge/WPScan-BD0000?style=flat-square&logo=wordpress&logoColor=white" alt="WPScan" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/FFUF-222222?style=flat-square&logoColor=white" alt="FFUF" />
-  <img src="https://img.shields.io/badge/Gobuster-4B0082?style=flat-square&logoColor=white" alt="Gobuster" />
-  <img src="https://img.shields.io/badge/Nikto-006400?style=flat-square&logoColor=white" alt="Nikto" />
-  <img src="https://img.shields.io/badge/Dalfox-8A2BE2?style=flat-square&logoColor=white" alt="Dalfox" />
+<img src="https://img.shields.io/badge/BURP%20SUITE-000000?style=for-the-badge&logo=burpsuite&logoColor=FF6633" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge&logo=metasploit&logoColor=2596CD" alt="Metasploit" />
+<img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
+<img src="https://img.shields.io/badge/NMAP-000000?style=for-the-badge&logoColor=4682B4" alt="Nmap" />
+<img src="https://img.shields.io/badge/SQLMAP-000000?style=for-the-badge&logoColor=white" alt="SQLMap" />
+<img src="https://img.shields.io/badge/WPSCAN-000000?style=for-the-badge&logo=wordpress&logoColor=21759B" alt="WPScan" />
+
+<img src="https://img.shields.io/badge/FFUF-000000?style=for-the-badge&logoColor=white" alt="FFUF" />
+<img src="https://img.shields.io/badge/GOBUSTER-000000?style=for-the-badge&logoColor=8A2BE2" alt="Gobuster" />
+<img src="https://img.shields.io/badge/DALFOX-000000?style=for-the-badge&logoColor=FF1493" alt="Dalfox" />
+<img src="https://img.shields.io/badge/NIKTO-000000?style=for-the-badge&logoColor=32CD32" alt="Nikto" />
+<img src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
+<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+
+<img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+<img src="https://img.shields.io/badge/KALI%20LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=268BEE" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/PARROT%20OS-000000?style=for-the-badge&logo=parrotsecurity&logoColor=15E0ED" alt="Parrot OS" />
+<img src="https://img.shields.io/badge/UBUNTU-000000?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/WINDOWS-000000?style=for-the-badge&logo=windows11&logoColor=0078D4" alt="Windows" />
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/VS%20CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code" />
+<img src="https://img.shields.io/badge/WORDPRESS-000000?style=for-the-badge&logo=wordpress&logoColor=21759B" alt="WordPress" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+
+<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+<img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+
 </p>
-
-### Programming & Automation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode" alt="Programming and automation tools" />
-</p>
-
-### Operating Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows" alt="Operating systems" />
 </p>
 
 ---
